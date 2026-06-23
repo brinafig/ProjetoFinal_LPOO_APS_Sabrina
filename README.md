@@ -55,6 +55,7 @@ Já em relação a implementação, foram encontradas muitas dificuldades. Um gr
 ### Declaração de uso de IA
 
 ChatGPT: Utilizado para revisar os diagramas e detectar falhas ou melhorias. Como a sugestão da criação da classe matrícula.
+
 Gemini: Utilizado majoritariamente para debugging. Consulta de sintaxe e estruturação de componentes visuais utilizando a biblioteca Tkinter (como a formatação de Treeviews). Sugestões pontuais para manter o código limpo e alinhado aos padrões da arquitetura MVC (separação estrita entre View, Model e DAO).
 
 
